@@ -4,7 +4,7 @@
 // 2-Personal Message: Store a person’s name in a variable, and print a message to that person. Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
 var personName = "Hello Abdul, would you like to learn Python today?";
 console.log(personName);
-// 3-Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
+// 3-Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase..
 var name1 = "Abdul Rehman";
 console.log(name1);
 console.log(name1.toLowerCase());
